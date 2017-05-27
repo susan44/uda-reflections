@@ -5,6 +5,9 @@ When you initialize a repository, a hidden directory named .git is created in th
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+staging area is like a commit draft, a place to hold files to commit, before actually making a commitment :)
+A chance to change your mind before actually committing, and making the process simpler.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
