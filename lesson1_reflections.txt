@@ -14,3 +14,8 @@ How can you use the commands git log and git diff to view the history of files?
 
 How might using version control make you more confident to make changes that could break something?
 you know you will always be able to go back to the version that worked.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+did not finish actually setting up the workspace.  There are lots of things here that may make using git-bash easier.  I will come back later and do them if I see the need. 
+https://classroom.udacity.com/courses/ud775/lessons/2980038599/concepts/29966385750923
+
